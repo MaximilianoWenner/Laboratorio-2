@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1628174083 source:c:\users\danie\documents\curso ejemplos c\lab2\2021 c2\mat1\main.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1628174352 c:\users\danie\documents\curso ejemplos c\lab2\2021 c2\mat1\funciones.h
+
