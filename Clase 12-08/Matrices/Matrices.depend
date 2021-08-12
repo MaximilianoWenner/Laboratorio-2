@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1628777079 source:c:\users\kid\documents\laboratorio 2\2021\clases 2c\matrices\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"utilidades.h"
+	"funciones.h"
+
+1571584339 c:\users\kid\documents\laboratorio 2\2021\clases 2c\matrices\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1613660130 c:\users\kid\documents\laboratorio 2\2021\clases 2c\matrices\utilidades.h
+	"rlutil.h"
+
+1628778666 c:\users\kid\documents\laboratorio 2\2021\clases 2c\matrices\funciones.h
+
